@@ -2,19 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1. Введение/1. Введение.iml" filepath="$PROJECT_DIR$/1. Введение/1. Введение.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01. Введение/01. Введение.iml" filepath="$PROJECT_DIR$/01. Введение/01. Введение.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02. Синтаксис Java/02. Синтаксис Java.iml" filepath="$PROJECT_DIR$/02. Синтаксис Java/02. Синтаксис Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03. Объектно-ориентированное программирование/03. Объектно-ориентированное программирование.iml" filepath="$PROJECT_DIR$/03. Объектно-ориентированное программирование/03. Объектно-ориентированное программирование.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04. Java продвинутый уровень/04. Java продвинутый уровень.iml" filepath="$PROJECT_DIR$/04. Java продвинутый уровень/04. Java продвинутый уровень.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05. Java Уровень 2/05. Java Уровень 2.iml" filepath="$PROJECT_DIR$/05. Java Уровень 2/05. Java Уровень 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06. Collections Framework/06. Collections Framework.iml" filepath="$PROJECT_DIR$/06. Collections Framework/06. Collections Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07. Generics/07. Generics.iml" filepath="$PROJECT_DIR$/07. Generics/07. Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08. Многопоточность/08. Многопоточность.iml" filepath="$PROJECT_DIR$/08. Многопоточность/08. Многопоточность.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09. Stream API/09. Stream API.iml" filepath="$PROJECT_DIR$/09. Stream API/09. Stream API.iml" />
       <module fileurl="file://$PROJECT_DIR$/10. Потоки ввода-вывода/10. Потоки ввода-вывода.iml" filepath="$PROJECT_DIR$/10. Потоки ввода-вывода/10. Потоки ввода-вывода.iml" />
-      <module fileurl="file://$PROJECT_DIR$/10. Потоки ввода/10. Потоки ввода\ввода.iml" filepath="$PROJECT_DIR$/10. Потоки ввода/10. Потоки ввода\ввода.iml" />
       <module fileurl="file://$PROJECT_DIR$/11. Java Core/11. Java Core.iml" filepath="$PROJECT_DIR$/11. Java Core/11. Java Core.iml" />
-      <module fileurl="file://$PROJECT_DIR$/2. Синтаксис Java/2. Синтаксис Java.iml" filepath="$PROJECT_DIR$/2. Синтаксис Java/2. Синтаксис Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/3. Объектно-ориентированное программирование/3. Объектно-ориентированное программирование.iml" filepath="$PROJECT_DIR$/3. Объектно-ориентированное программирование/3. Объектно-ориентированное программирование.iml" />
-      <module fileurl="file://$PROJECT_DIR$/4. Java продвинутый уровень/4. Java продвинутый уровень.iml" filepath="$PROJECT_DIR$/4. Java продвинутый уровень/4. Java продвинутый уровень.iml" />
-      <module fileurl="file://$PROJECT_DIR$/5. Java Уровень 2/5. Java Уровень 2.iml" filepath="$PROJECT_DIR$/5. Java Уровень 2/5. Java Уровень 2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/6. Collections Framework/6. Collections Framework.iml" filepath="$PROJECT_DIR$/6. Collections Framework/6. Collections Framework.iml" />
-      <module fileurl="file://$PROJECT_DIR$/7. Generics/7. Generics.iml" filepath="$PROJECT_DIR$/7. Generics/7. Generics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/8. Многопоточность/8. Многопоточность.iml" filepath="$PROJECT_DIR$/8. Многопоточность/8. Многопоточность.iml" />
-      <module fileurl="file://$PROJECT_DIR$/9. Stream API/9. Stream API.iml" filepath="$PROJECT_DIR$/9. Stream API/9. Stream API.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/from-zero-to-junior-java.iml" filepath="$PROJECT_DIR$/.idea/from-zero-to-junior-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10. Потоки ввода/10. Потоки ввода/ввода.iml" filepath="$PROJECT_DIR$/10. Потоки ввода/10. Потоки ввода/ввода.iml" />
       <module fileurl="file://$PROJECT_DIR$/10. Потоки ввода/вывода/10. Потоки ввода/вывода.iml" filepath="$PROJECT_DIR$/10. Потоки ввода/вывода/10. Потоки ввода/вывода.iml" />
     </modules>
   </component>
