@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1. Введение/1. Введение.iml" filepath="$PROJECT_DIR$/1. Введение/1. Введение.iml" />
       <module fileurl="file://$PROJECT_DIR$/10. Потоки ввода-вывода/10. Потоки ввода-вывода.iml" filepath="$PROJECT_DIR$/10. Потоки ввода-вывода/10. Потоки ввода-вывода.iml" />
-      <module fileurl="file://$PROJECT_DIR$/10. Потоки ввода/10. Потоки ввода\ввода.iml" filepath="$PROJECT_DIR$/10. Потоки ввода/10. Потоки ввода\ввода.iml" />
       <module fileurl="file://$PROJECT_DIR$/11. Java Core/11. Java Core.iml" filepath="$PROJECT_DIR$/11. Java Core/11. Java Core.iml" />
       <module fileurl="file://$PROJECT_DIR$/2. Синтаксис Java/2. Синтаксис Java.iml" filepath="$PROJECT_DIR$/2. Синтаксис Java/2. Синтаксис Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/3. Объектно-ориентированное программирование/3. Объектно-ориентированное программирование.iml" filepath="$PROJECT_DIR$/3. Объектно-ориентированное программирование/3. Объектно-ориентированное программирование.iml" />
