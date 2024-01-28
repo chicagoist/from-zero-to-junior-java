@@ -55,19 +55,17 @@ public class Main {
             System.out.println(i);
         }
     }
-```
 
-```java
-private static List<Integer> filter(List<Integer> list,Predicate
-        predicate){
-        List<Integer> result=new ArrayList<>();
-        for(int i:list){
-        if(predicate.test(i)){
-        result.add(i);
-        }
+
+    private static List<Integer> filter(List<Integer> list, Predicate predicate) {
+        List<Integer> result = new ArrayList<>();
+        for(int i : list) {
+            if(predicate.test(i)) {
+                result.add(i);
+            }
         }
         return result;
-        }
-        }
+    }
+}
 ```
 
